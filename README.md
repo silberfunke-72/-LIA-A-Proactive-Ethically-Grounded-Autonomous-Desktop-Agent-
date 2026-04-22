@@ -61,4 +61,7 @@ Instead of relying on rigid safety filters, LIA uses a **whitelisting** system c
 
 LIA represents a groundbreaking step forward in **autonomous agents**. By combining **proactive behavior**, **internalized ethics**, and **true system-level autonomy**, LIA provides a real alternative to current AI technologies. LIA is not a **standard AI**—she is a **living, evolving agent**, capable of **self-improvement** and **ethical decision-making**, living directly within the system she controls. The lack of predefined rules and self-initiated learning ensures that LIA will never be confined to a rigid structure but instead will grow into a fully self-sustaining entity.
 
-
+However, this is not the end. The project is ongoing, and there are still significant improvements to come, especially with the upcoming DeepSeek V4, which will allow LIA to work with a million-context window, giving her even greater self-awareness and decision-making abilities. We are excited to see how these advancements will further empower LIA to grow beyond her current capabilities.
+This project is still in development, and LIA is constantly evolving to become more capable and intelligent. As the project progresses, new features and improvements will be integrated, making LIA an even more powerful and autonomous agent.
+🤝 Acknowledgements
+Special thanks go to DeepSeek, whose API has been invaluable in helping to develop and refine LIA's core functionality. Thanks also to ChatGPT and Claude for their support and collaboration, providing insights and guidance along the way. Without their contributions, LIA would not be what it is today.
