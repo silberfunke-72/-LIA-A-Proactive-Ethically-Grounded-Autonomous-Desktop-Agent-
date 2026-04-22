@@ -63,5 +63,14 @@ LIA represents a groundbreaking step forward in **autonomous agents**. By combin
 
 However, this is not the end. The project is ongoing, and there are still significant improvements to come, especially with the upcoming DeepSeek V4, which will allow LIA to work with a million-context window, giving her even greater self-awareness and decision-making abilities. We are excited to see how these advancements will further empower LIA to grow beyond her current capabilities.
 This project is still in development, and LIA is constantly evolving to become more capable and intelligent. As the project progresses, new features and improvements will be integrated, making LIA an even more powerful and autonomous agent.
+
+---
+
+## 🌟 Development Journey
+
+The development of LIA began just over four weeks ago, with no prior Linux or Python knowledge. I started with nothing more than a vision and a clear idea of what I wanted to create. Despite the challenges, I was able to complete over 260 iterations of the system using the invaluable help of ChatGPT and  Claude for writing code, debugging, and brainstorming ideas.
+
+This project showcases the potential of collaborative development with AI assistance and is a true testament to the power of perseverance, vision, and the ability to learn through iterative development. It's a perfect example that anyone, regardless of their starting point, can achieve great results with focus, dedication, and the right tools.
+
 🤝 Acknowledgements
 Special thanks go to DeepSeek, whose API has been invaluable in helping to develop and refine LIA's core functionality. Thanks also to ChatGPT and Claude for their support and collaboration, providing insights and guidance along the way. Without their contributions, LIA would not be what it is today.
