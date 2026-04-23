@@ -163,7 +163,7 @@ Built over four weeks, starting from zero knowledge of Linux and Python.
 - **Claude (Anthropic)** — coding, debugging, architecture across 260+ iterations
 - **ChatGPT (OpenAI)** — brainstorming and problem-solving
 
-This project is proof that with focus, the right tools, and genuine curiosity, anyone can build something that surprises even its creator.
+"This project is proof that with a clear vision, focus, the right tools, and genuine curiosity, anyone can build something that surprises even its creator."
 
 ---
 
