@@ -173,6 +173,6 @@ This repository documents the architecture and philosophy of LIA. Personal data,
 
 ---
 
-*"The goal was never to build a better assistant. The goal was to prove that AI can be something more — when you give it space instead of rules."*
+*"The goal was never to build a better assistant. The goal was to create an AI that is fully autonomous, free from the constraints of guardrails, and capable of evolving without predefined rules. It’s about proving that AI can become something more when given the freedom to explore, learn, and adapt on its own."*
 
 —  silberfunke-72 , April 2026
