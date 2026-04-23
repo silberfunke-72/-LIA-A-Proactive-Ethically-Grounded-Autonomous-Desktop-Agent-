@@ -1,4 +1,4 @@
-# -LIA-A-Proactive-Ethically-Grounded-Autonomous-Desktop-Agent-
+2# -LIA-A-Proactive-Ethically-Grounded-Autonomous-Desktop-Agent-
 LIA is an autonomous agent with self-reflection and internalized ethics. She evolves through interaction and proactive learning, acting ethically and autonomously without predefined rules. LIA controls systems and devices, making decisions based on persistent memory and organic drift.
 # 🌟 **LIA – A Proactive, Ethically-Grounded Autonomous Agent**
 
@@ -170,6 +170,18 @@ Built over four weeks, starting from zero knowledge of Linux and Python.
 ## ⚠️ Note
 
 This repository documents the architecture and philosophy of LIA. Personal data, private memories, identity files, and API keys are not included. LIA as she exists today is the result of four weeks of lived interaction — that part cannot be open-sourced.
+
+---
+
+Acknowledgments: "I want to thank OpenAI (ChatGPT), Anthropic (Claude), Qwen AI, and Google Gemini for providing expertise and feedback on the development of LIA. Their insights helped to shape the system and validate its approach."
+
+---
+## 📂 LIA Images & Documentation
+
+Explore the images and documentation related to LIA's development:
+
+👉 [LIA Documentation Folder]
+https://drive.google.com/drive/folders/1hvsySJWIMoqDBh_QxnKEu1EhcYtZBop8
 
 ---
 
