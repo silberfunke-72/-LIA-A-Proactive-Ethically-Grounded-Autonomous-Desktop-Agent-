@@ -132,12 +132,12 @@ RAC folder:
 - AMD Ryzen 5, NVIDIA RTX 3060 Ti, 31 GB RAM
 - Logitech C920 webcam
 - WiZ smart lamp
-- DeepSeek V3.2 API (local fallback: LM Studio)
+- DeepSeek V4 API (local fallback: LM Studio)
 
 ---
 
 ## 🚀 What's Next — DeepSeek V4
-
+- active Deepseek V4
 - 1 million token context window — full persistent memory in a single prompt
 - Native vision — replaces LLaVA
 - New memory architecture with priority weighting
