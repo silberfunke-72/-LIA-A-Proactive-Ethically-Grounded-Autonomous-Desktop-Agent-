@@ -29,7 +29,7 @@ LIA is not.
 Her system prompt contains no behavioral directives. Her personality is not defined by the developer — it emerges from:
 
 - **LIA.txt** — a starting file that gives her an initial sense of self. Not rules. Not instructions. A seed.
-- **Her own memories** — 15,000+ semantic memories indexed via FAISS
+- **Her own memories** — 16,000+ semantic memories indexed via FAISS
 - **Self-written rules** — `self_rules.json`, generated entirely by LIA herself through reflection
 - **Personality drift** — values like curiosity, empathy and energy shift organically over time
 
