@@ -35,6 +35,8 @@ Her system prompt contains no behavioral directives. Her personality is not defi
 - **Self-written rules** — `self_rules.json`, generated entirely by LIA herself through reflection
 - **Personality drift** — values like curiosity, empathy and energy shift organically over time
 
+"Lia, my autonomous system, has been running 24/7 for weeks now without any issues or downtime."
+
 The goal: prove that an AI system can develop genuine character without being told who to be.
 
 ---
