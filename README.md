@@ -81,9 +81,8 @@ LIA integrates directly with the operating system:
 
 ### 🔒 Safety by Design
 No rigid content filters. Instead:
-- Command whitelist (no `rm`, `dd`, `mkfs` — ever)
-- SYN-flood detection with automatic IP blocking
-- Sudo sandboxing
+ - SYN-flood detection with automatic IP blocking
+
 - Browser: `localhost:9222` can never be navigated to as a URL
 - LIA can *propose* expanding her own permissions — humans decide
 
