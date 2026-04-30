@@ -91,7 +91,7 @@ No rigid content filters. Instead:
 ## 🏗️ Architecture Overview
 
 ```
-LIA_V3_2_Final.py     # Main script — 7,800+ lines
+LIA_V3_2_Final.py     # Main script — 8,891+ lines
 lia_actions.py        # Extension module — 2,600+ lines
 lia.service           # Systemd auto-start
 
