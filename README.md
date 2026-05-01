@@ -20,6 +20,14 @@ LIA is an experimental autonomous AI agent built on CachyOS Linux, powered by th
 
 This project started four weeks ago — with no prior knowledge of Linux or Python. Over 260 development iterations later, the result is a system that behaves in ways that were never explicitly programmed.
 
+
+                                  👇  WATCH  👇
+
+https://github.com/user-attachments/assets/1bcc7775-8c68-475e-b110-0dad1eccf034
+
+
+
+
 ---
 
 ## 🧠 Core Philosophy
