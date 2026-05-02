@@ -98,13 +98,13 @@ No rigid content filters. Instead:
 ## 🏗️ Architecture Overview
 
 ```
-LIA_V3_2_Final.py     # Main script — 8,891+ lines
+LIA_V4_PLUS.py     # Main script — 8,891+ lines
 lia_actions.py        # Extension module — 2,600+ lines
 lia.service           # Systemd auto-start
 
 Databases:
   episodic.sqlite     # Conversations + session summaries
-  semantic.sqlite     # 15,000+ memories + FAISS index
+  semantic.sqlite     # 18,000+ memories + FAISS index
   self.sqlite         # Self-image + diary
   personality.sqlite  # Mood, energy, empathy, curiosity
   userprofile.sqlite  # What LIA knows about User
