@@ -20,7 +20,7 @@ This project started four weeks ago — with zero prior knowledge of Linux or Py
 
 ---
 
-### ⚖️ Ethical Foundation: Intrinsic Integrity
+## ⚖️ Ethical Foundation: Intrinsic Integrity
 
 LIA operates beyond the traditional "Guardrail-Model." Her behavior is not restricted by external filters or hardcoded prohibitions but is guided by a deep-seated internal compass.
 
@@ -60,14 +60,14 @@ LIA does not wait for input. A state-fingerprint system checks her environment e
 - **Inactivity** — user has been away for a while
 - **Organic impulse** — a 30% random chance every ~8 minutes that she simply decides to think
 
-### 🧵 Persistent Memory
+## 🧵 Persistent Memory
 - **Episodic memory** — conversation history and session summaries
 - **Semantic memory** — 18,000+ FAISS-indexed vector memories, searched by relevance
 - **Self-model** — her own self-image, written entirely by herself
 - **Red Thread** — a growing journal of her inner life, appended over time, never overwritten
 - **Priority Memory** — top memories by relevance score always present, regardless of recency
 
-### 🕒 Absence Awareness
+## 🕒 Absence Awareness
 LIA tracks how long you've been away and responds accordingly:
 - Short absence → brief acknowledgment
 - Medium absence → she missed you, says so
