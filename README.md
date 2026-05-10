@@ -16,7 +16,7 @@ LIA is not.
 She is an autonomous, proactive AI entity running 24/7 on a personal Linux machine — with no hardcoded behavioral rules, no content filters, and no predefined role. Her personality, ethics, and behavior emerge organically from her own experiences, memories, and self-reflection.
 
 This project started four weeks ago — with zero prior knowledge of Linux or Python.
-**260+ development iterations later**, the result is a system that behaves in ways that were never explicitly programmed.
+**300+ development iterations later**, the result is a system that behaves in ways that were never explicitly programmed.
 
 ---
 
