@@ -2,7 +2,7 @@
 
 **Most AI interactions today are stateless and prompt-dependent. I wanted to explore what happens when you build a system designed for persistent identity, proactive agency, and intrinsic ethical reasoning.**
 
-> **Important:** This is not a product launch. No investors, no sales. This is a technical report on a 5-week experiment in autonomous agent design. The goal: To demonstrate that **intrinsically motivated behavior** can emerge from architecture, rather than relying solely on RLHF or hardcoded guardrails.
+> **Important:** This is not a product launch. No investors, no sales. This repository documents the architecture of LIA – a 5-week experiment in autonomous agent design. . The goal: To demonstrate that **intrinsically motivated behavior** can emerge from architecture, rather than relying solely on RLHF or hardcoded guardrails.
 
 ---
 
