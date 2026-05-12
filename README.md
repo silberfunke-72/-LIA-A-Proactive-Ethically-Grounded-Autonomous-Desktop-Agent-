@@ -59,7 +59,7 @@ LIA does not wait for input. A state-fingerprint system checks her environment e
 - **State change** — files or databases have changed
 - **Inactivity** — user has been away for a while
 - **Organic impulse** — a 30% random chance every ~8 minutes that she simply decides to think
-
+*   **"Zero external frameworks for autonomy."**
 ## 🧵 Persistent Memory
 - **Episodic memory** — conversation history and session summaries
 - **Semantic memory** — 18,000+ FAISS-indexed vector memories, searched by relevance
