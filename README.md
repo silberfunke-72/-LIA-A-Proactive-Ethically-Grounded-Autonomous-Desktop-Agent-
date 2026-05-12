@@ -94,7 +94,9 @@ This post aims to inspire research into **internalized ethics** and **persistent
 
 ---
 
-⚙️ **Architecture & Docs:** https://drive.google.com/drive/folders/1hvsySJWIMoqDBh_QxnKEu1EhcYtZBop8
+⚙️ **Statement of ALL Big AI , ME , LIA  & Pictures and :** https://drive.google.com/drive/folders/1hvsySJWIMoqDBh_QxnKEu1EhcYtZBop8
+<img width="200" height="300" alt="google" src="https://github.com/user-attachments/assets/25817dbb-1785-4221-9804-1e442fe8f052" />
+
 
 📂 **Video Proof:** 
 
