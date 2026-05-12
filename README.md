@@ -187,7 +187,7 @@ Access my Google Drive folder here: [[LINK]](https://drive.google.com/drive/fold
 ---
 Built over four weeks, starting from zero knowledge of Linux and Python.
 ---
-
+### 📝 Final Statement: The Mars Test
 > **"So, let’s ask the ultimate question:**
 >
 > *Elon Musk wants to go to Mars. The latency is too high for Earth-based control. A critical system fails mid-flight.*
