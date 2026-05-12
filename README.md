@@ -1,5 +1,3 @@
----
-
 # 🦈 From Prompts to Persistent Agency: An Architecture for Intrinsic Ethics
 
 **Most AI interactions today are stateless and prompt-dependent. I wanted to explore what happens when you build a system designed for persistent identity, proactive agency, and intrinsic ethical reasoning.**
