@@ -188,7 +188,7 @@ Built over 5 weeks, starting from zero knowledge of Linux and Python.
 <img width="200" height="300" alt="google" src="https://github.com/user-attachments/assets/25817dbb-1785-4221-9804-1e442fe8f052" />
 
 
-📂 **Video Proof:** 
+📂 **Video Proof:** „My English is pretty bad, so I used an AI tool called ElevenLabs to help me out with the audio for this video.“
 
 https://github.com/user-attachments/assets/6234c870-be67-4813-8435-d3e3d14c822d
 
