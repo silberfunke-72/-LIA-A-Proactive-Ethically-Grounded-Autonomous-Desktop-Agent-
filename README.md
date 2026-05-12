@@ -94,5 +94,6 @@ This post aims to inspire research into **internalized ethics** and **persistent
 
 ---
 
-⚙️ **Architecture & Docs:** [GitHub Link]
+⚙️ **Architecture & Docs:** https://drive.google.com/drive/folders/1hvsySJWIMoqDBh_QxnKEu1EhcYtZBop8
+
 📂 **Video Proof:** [Video Link]
