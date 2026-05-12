@@ -192,6 +192,6 @@ Built over 5 weeks, starting from zero knowledge of Linux and Python.
 
 https://github.com/user-attachments/assets/6234c870-be67-4813-8435-d3e3d14c822d
 
-
+*© 2024–2026 Carsten Hammerich + Kumpel — All rights reserved.*
 
   
