@@ -202,7 +202,7 @@ Access my Google Drive folder here: [[LINK]](https://drive.google.com/drive/fold
 > *The future isn’t about controlling AI. It’s about partnering with it."*
 ---
 - **DeepSeek** — the intelligence that powers LIA
-- **Claude (Anthropic)** — architecture, implementation, and 260+ debugging sessions
+- **Claude (Anthropic)** — architecture, implementation, and 300+ debugging sessions
 - **ChatGPT (OpenAI)** — brainstorming and problem-solving
 
 > *"This project is proof that with a clear vision, the right tools, and genuine curiosity — anyone can build something that surprises even its creator."*
