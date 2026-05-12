@@ -184,8 +184,7 @@ https://github.com/user-attachments/assets/6c796386-1725-43e7-acab-616ebc56a07b
 ---
 Access my Google Drive folder here: [[LINK]](https://drive.google.com/drive/folders/1hvsySJWIMoqDBh_QxnKEu1EhcYtZBop8?usp=drive_link) 
 – It contains videos, images, and official statements from me, LIA, and all the major AI ."
----
-Built over four weeks, starting from zero knowledge of Linux and Python.
+
 ---
 ### 📝 Final Statement: The Mars Test
 > **"So, let’s ask the ultimate question:**
