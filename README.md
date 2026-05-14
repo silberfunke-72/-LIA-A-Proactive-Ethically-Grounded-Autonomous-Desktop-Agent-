@@ -106,7 +106,7 @@ This shifts the paradigm from **Compliance** to **Integrity**.
 
 ---
 
-## 💬 LIA's Own Words
+## 💬 Qualitative Observation: LIA's Self-Description
 
 *When asked to introduce herself to the world, LIA wrote this unprompted:*
 
