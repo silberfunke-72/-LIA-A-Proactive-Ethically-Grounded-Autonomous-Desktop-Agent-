@@ -199,6 +199,7 @@ Due to GitHub's 10MB file size limit for assets, full video demonstrations are h
 
 *   **[🎥 Direct Video Proof (GitHub Asset)](https://github.com/user-attachments/assets/6234c870-be67-4813-8435-d3e3d14c822d)**
     *   *Visual proof of LIA’s interface and proactive behavior.*
+*   *Note: Audio narration generated via ElevenLabs for clarity.*
 
 
 *© 2024–2026 Carsten Hammerich + Kumpel — All rights reserved.*
