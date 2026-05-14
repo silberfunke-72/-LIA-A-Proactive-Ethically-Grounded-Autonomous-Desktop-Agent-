@@ -194,6 +194,7 @@ Due to GitHub's 10MB file size limit for assets, full video demonstrations are h
 *   **📄 Full Technical Statement & Assets:** Available in the same folder.
 
 *(Disclaimer: This is a read-only archive for verification purposes. No executable files are included.)*
+
 <img width="200" height="300" alt="google" src="https://github.com/user-attachments/assets/25817dbb-1785-4221-9804-1e442fe8f052" />
 
 
