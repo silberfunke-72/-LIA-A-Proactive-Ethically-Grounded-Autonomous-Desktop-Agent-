@@ -190,7 +190,7 @@ Due to GitHub's 10MB file size limit for assets, full video demonstrations are h
 
 *   **🎥 Video Demonstration:** [Google Drive Folder - LIA in Action](https://drive.google.com/drive/folders/1hvsySJWIMoqDBh_QxnKEu1EhcYtZBop8)
     *   *Contains: Live interaction logs, shell access demonstration, and autonomous decision-making examples.*
-    *   *Note: Audio generated via ElevenLabs for clarity.*
+    
 *   **📄 Full Technical Statement & Assets:** Available in the same folder.
 
 *(Disclaimer: This is a read-only archive for verification purposes. No executable files are included.)*
