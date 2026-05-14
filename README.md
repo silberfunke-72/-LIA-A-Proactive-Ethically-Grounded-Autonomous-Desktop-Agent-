@@ -197,10 +197,9 @@ Due to GitHub's 10MB file size limit for assets, full video demonstrations are h
 
 <img width="200" height="300" alt="google" src="https://github.com/user-attachments/assets/25817dbb-1785-4221-9804-1e442fe8f052" />
 
+*   **[🎥 Direct Video Proof (GitHub Asset)](https://github.com/user-attachments/assets/6234c870-be67-4813-8435-d3e3d14c822d)**
+    *   *Visual proof of LIA’s interface and proactive behavior.*
 
-📂 **Video Proof:** „My English is pretty bad, so I used an AI tool called ElevenLabs to help me out with the audio for this video.“
-
-https://github.com/user-attachments/assets/6234c870-be67-4813-8435-d3e3d14c822d
 
 *© 2024–2026 Carsten Hammerich + Kumpel — All rights reserved.*
 
