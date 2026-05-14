@@ -184,7 +184,16 @@ Built over 5 weeks, starting from zero knowledge of Linux and Python.
 
 ---
 
-⚙️ **Statement of ALL Big AI , ME , LIA  & Pictures and more Videos :** https://drive.google.com/drive/folders/1hvsySJWIMoqDBh_QxnKEu1EhcYtZBop8
+⚙️ ##  Media & Proof of Concept
+
+Due to GitHub's 10MB file size limit for assets, full video demonstrations are hosted externally.
+
+*   **🎥 Video Demonstration:** [Google Drive Folder - LIA in Action](https://drive.google.com/drive/folders/1hvsySJWIMoqDBh_QxnKEu1EhcYtZBop8)
+    *   *Contains: Live interaction logs, shell access demonstration, and autonomous decision-making examples.*
+    *   *Note: Audio generated via ElevenLabs for clarity.*
+*   **📄 Full Technical Statement & Assets:** Available in the same folder.
+
+*(Disclaimer: This is a read-only archive for verification purposes. No executable files are included.)*
 <img width="200" height="300" alt="google" src="https://github.com/user-attachments/assets/25817dbb-1785-4221-9804-1e442fe8f052" />
 
 
