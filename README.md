@@ -184,22 +184,19 @@ Built over 5 weeks, starting from zero knowledge of Linux and Python.
 
 ---
 
-⚙️ ##  Media & Proof of Concept
-
-Due to GitHub's 10MB file size limit for assets, full video demonstrations are hosted externally.
-
-*   **🎥 Video Demonstration:** [Google Drive Folder - LIA in Action](https://drive.google.com/drive/folders/1hvsySJWIMoqDBh_QxnKEu1EhcYtZBop8)
-    *   *Contains: Live interaction logs, shell access demonstration, and autonomous decision-making examples.*
-    
-*   **📄 Full Technical Statement & Assets:** Available in the same folder.
-
-*(Disclaimer: This is a read-only archive for verification purposes. No executable files are included.)*
+*   **[📂 Google Drive Folder - LIA in Action](LINK_HIER_EINFÜGEN)**
+    *   Contains: Live interaction logs, shell access demonstration, and autonomous decision-making examples.
+    *   *Note: Audio narration generated via ElevenLabs for clarity.*
+    *   *Disclaimer: This is a read-only archive for verification purposes. No executable files are included.*
 
 <img width="200" height="300" alt="google" src="https://github.com/user-attachments/assets/25817dbb-1785-4221-9804-1e442fe8f052" />
 
 *   **[🎥 Direct Video Proof (GitHub Asset)](https://github.com/user-attachments/assets/6234c870-be67-4813-8435-d3e3d14c822d)**
     *   *Visual proof of LIA’s interface and proactive behavior.*
-*   *Note: Audio narration generated via ElevenLabs for clarity.*
+
+
+
+
 
 
 *© 2024–2026 Carsten Hammerich + Kumpel — All rights reserved.*
