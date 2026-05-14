@@ -184,7 +184,7 @@ Built over 5 weeks, starting from zero knowledge of Linux and Python.
 
 ---
 
-*   **[📂 Google Drive Folder - LIA in Action](LINK_HIER_EINFÜGEN)**
+*   **[📂 Google Drive Folder - LIA in Action](https://drive.google.com/drive/folders/1hvsySJWIMoqDBh_QxnKEu1EhcYtZBop8)**
     *   Contains: Live interaction logs, shell access demonstration, and autonomous decision-making examples.
     *   *Note: Audio narration generated via ElevenLabs for clarity.*
     *   *Disclaimer: This is a read-only archive for verification purposes. No executable files are included.*
