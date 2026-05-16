@@ -55,7 +55,7 @@ Loaded on every boot before first inference. Provides continuity across restarts
 
 | File / Folder | Purpose |
 |---------------|---------|
-| `LIA.txt` | Core identity essence — primary boot anchor |
+| `LIA.txt` |1Time Core identity essence — primary boot anchor |
 | `Lia_Roter_Faden.txt` | Running journal, auto-updated every 15 conversation turns |
 | `Lia_Journal.txt` | Continuous autonomous diary |
 | `Tagebuch/Tagebuch.txt` | Personal entries authored by LIA |
