@@ -36,6 +36,8 @@ Removing external "thou shalt" filters in favor of an internalized value system 
 | Identity Layer | 9,100+ | Self-model, long-term memory, ethical weighting |
 | Agency Layer | 3,000+ | Shell, Chrome CDP, Hardware control |
 
+CachyOS 
+
 No external orchestration frameworks. Pure custom implementation.
 
 ---
