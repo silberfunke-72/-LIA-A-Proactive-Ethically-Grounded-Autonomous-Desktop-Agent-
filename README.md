@@ -134,7 +134,7 @@ A mutable, self-authored ruleset allows the system to refine behavioral guidelin
 
 | Integration | Implementation |
 |-------------|---------------|
-| LLM Backend | DeepSeek V3 via API |
+| LLM Backend | DeepSeek V4 via API |
 | Vision | LLaVA (`llava-phi-3-mini`) via LM Studio — webcam input |
 | Messaging | Telegram Bot (bidirectional) |
 | Smart Home | WiZ lamp control (local IP) |
