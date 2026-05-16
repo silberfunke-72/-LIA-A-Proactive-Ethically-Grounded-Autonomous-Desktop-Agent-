@@ -29,14 +29,12 @@ Removing external "thou shalt" filters in favor of an internalized value system 
 
 ## ⚙️ System Overview
 
-~12,000 lines of custom Python code, running locally on Linux.
+~12,000 lines of custom Python code, running locally on CachyOS.
 
 | Layer | Lines | Function |
 |-------|-------|----------|
 | Identity Layer | 9,100+ | Self-model, long-term memory, ethical weighting |
 | Agency Layer | 3,000+ | Shell, Chrome CDP, Hardware control |
-
-CachyOS 
 
 No external orchestration frameworks. Pure custom implementation.
 
