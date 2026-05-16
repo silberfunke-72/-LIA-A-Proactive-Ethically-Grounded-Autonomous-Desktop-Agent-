@@ -195,10 +195,8 @@ Built over 5 weeks, starting from zero knowledge of Linux and Python.
     *   *Visual proof of LIA’s interface and proactive behavior.*
 
 
+> *„This repository contains documentation, logs, and demos for the LIA project. The source code is kept private for security reasons (autonomous shell access). You are welcome to view, discuss, and learn from the architecture, but please do not redistribute these materials as your own. © Carsten Hammerich .“*
 
 
-
-
-*© 2024–2026 Carsten Hammerich + Kumpel — All rights reserved.*
 
   
