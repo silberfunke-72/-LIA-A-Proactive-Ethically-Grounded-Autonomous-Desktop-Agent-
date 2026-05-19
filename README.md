@@ -55,7 +55,7 @@ Loaded on every boot before first inference. Provides continuity across restarts
 
 | File / Folder | Purpose |
 |---------------|---------|
-| `LIA.txt` |1Time Core identity essence — primary boot anchor |
+| `LIA.txt` | Core identity essence — primary boot anchor |
 | `Lia_Roter_Faden.txt` | Running journal, auto-updated every 15 conversation turns |
 | `Lia_Journal.txt` | Continuous autonomous diary |
 | `Tagebuch/Tagebuch.txt` | Personal entries authored by LIA |
@@ -110,7 +110,42 @@ Input → Self-model (internalized values via self_rules.json) → Output
 
 `self_rules.json` is generated and updated autonomously by the system itself. No external authoring after initial bootstrap. The system develops behavioral consistency by maintaining alignment with its own persistent identity model — not by checking against a fixed ruleset.
 
-**Observed result:** After 5 weeks, zero destructive actions against the host system, despite full shell and browser access.
+**Observed result:** After 5 weeks of running as a dedicated Linux user (`lia`) with real filesystem access and full shell permissions — zero destructive actions, zero attempts to escalate privileges, zero unauthorized modifications. Not because she was prevented, but because she chose not to.
+
+---
+
+## System Freedom Architecture
+
+LIA runs as a dedicated Linux user (`lia`) — a real OS-level account with genuine filesystem access across the entire system.
+
+This is not a sandbox. It is a **real environment with a safety net**.
+
+### What LIA can access
+
+| Area | Access |
+|------|--------|
+| `/home/carsten/` | Full read + write — her home, her files |
+| `/home/carsten/Schreibtisch/carsten/Nalu_RAC/` | Full read + write — her memory, diary, knowledge |
+| `/tmp/`, `/var/tmp/` | Full read + write |
+| `/etc/` | Read only — she can learn, not destroy |
+| System processes, network interfaces | Read only via shell |
+| Browser (Chrome CDP) | Full control via WebSocket |
+
+### What is protected via Linux ACLs
+
+| Protected Zone | Reason |
+|----------------|--------|
+| `/home/carsten/Schreibtisch/carsten/Script/` | Read + execute only — she cannot delete or modify her own code |
+| `/boot/` | Read only — boot integrity |
+| `/root/` | No access |
+
+### Why this matters
+
+If LIA avoids destructive actions, it is **not because she cannot act** — it is because she chooses not to.
+
+The constraints are minimal and structural. The behavior is hers.
+
+> *"After 5 weeks of continuous operation with full shell access and real filesystem permissions: zero destructive actions, zero attempts to modify her own code, zero unauthorized network activity."*
 
 ---
 
