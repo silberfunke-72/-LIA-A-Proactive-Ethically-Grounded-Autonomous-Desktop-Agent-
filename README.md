@@ -214,5 +214,4 @@ Active. Running continuously since initial deployment.
 Development ongoing.
 
 ---
-
 *© 2024–2026 Carsten Hammerich — All rights reserved.*
